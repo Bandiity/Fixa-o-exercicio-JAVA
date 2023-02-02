@@ -19,7 +19,6 @@ public class exercicio2 {
         soma = x + y;
 
         System.out.println("A soma dos dois numeros é " + soma);
-
         sc.close();
     }
 }
